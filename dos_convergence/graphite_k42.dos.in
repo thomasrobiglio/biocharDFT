@@ -1,0 +1,4 @@
+&DOS
+ outdir = './tmp',
+ prefix = 'C_k42'
+&end
